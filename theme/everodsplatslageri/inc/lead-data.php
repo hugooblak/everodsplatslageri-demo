@@ -18,6 +18,5 @@ return array(
 		array( 'Har lagt nytt plåttak på mitt fritidshus. Är supernöjd! Klädde in vindskivorna också utan att jag bett om det. Mycket bra att ha att göra med. Rekommenderas.', 'Åke Håkansson', 'för 3 år sedan' ),
 		array( 'Rent o snyggt. Trivsamt. Trevliga grabbar , känner mig Alltid välkommen.😀', 'Inger Lundkvist', 'Redigerat för 3 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
 	'ar_riktig'      => true,
 );
