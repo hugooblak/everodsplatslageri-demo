@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Everöds Plåtslageri AB',
+	'bransch'        => 'Plåtentreprenör',
 	'telefon'        => '070-537 00 14',
 	'telefon_tel'    => '+46705370014',
 	'ort'            => 'Everöd',
